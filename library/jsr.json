@@ -1,0 +1,5 @@
+{
+  "name": "@mxdvl/valibot",
+  "version": "0.29.0-prerelease.2",
+  "exports": "./src/index.ts"
+}
